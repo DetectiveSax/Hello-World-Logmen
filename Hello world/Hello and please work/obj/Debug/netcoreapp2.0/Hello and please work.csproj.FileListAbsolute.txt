@@ -1,0 +1,11 @@
+C:\Users\bigbe\Documents\GitHub\Project 2\Hello-World\Hello world\Hello and please work\bin\Debug\netcoreapp2.0\Hello and please work.deps.json
+C:\Users\bigbe\Documents\GitHub\Project 2\Hello-World\Hello world\Hello and please work\bin\Debug\netcoreapp2.0\Hello and please work.runtimeconfig.json
+C:\Users\bigbe\Documents\GitHub\Project 2\Hello-World\Hello world\Hello and please work\bin\Debug\netcoreapp2.0\Hello and please work.runtimeconfig.dev.json
+C:\Users\bigbe\Documents\GitHub\Project 2\Hello-World\Hello world\Hello and please work\bin\Debug\netcoreapp2.0\Hello and please work.dll
+C:\Users\bigbe\Documents\GitHub\Project 2\Hello-World\Hello world\Hello and please work\bin\Debug\netcoreapp2.0\Hello and please work.pdb
+C:\Users\bigbe\Documents\GitHub\Project 2\Hello-World\Hello world\Hello and please work\obj\Debug\netcoreapp2.0\Hello and please work.csprojResolveAssemblyReference.cache
+C:\Users\bigbe\Documents\GitHub\Project 2\Hello-World\Hello world\Hello and please work\obj\Debug\netcoreapp2.0\Hello and please work.csproj.CoreCompileInputs.cache
+C:\Users\bigbe\Documents\GitHub\Project 2\Hello-World\Hello world\Hello and please work\obj\Debug\netcoreapp2.0\Hello and please work.AssemblyInfoInputs.cache
+C:\Users\bigbe\Documents\GitHub\Project 2\Hello-World\Hello world\Hello and please work\obj\Debug\netcoreapp2.0\Hello and please work.AssemblyInfo.cs
+C:\Users\bigbe\Documents\GitHub\Project 2\Hello-World\Hello world\Hello and please work\obj\Debug\netcoreapp2.0\Hello and please work.dll
+C:\Users\bigbe\Documents\GitHub\Project 2\Hello-World\Hello world\Hello and please work\obj\Debug\netcoreapp2.0\Hello and please work.pdb
